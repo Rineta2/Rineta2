@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ### 🛠️ Languages and Tools:
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Frameworks**: Django, React, Spring Boot
-- **Tools**: Git, Docker, Kubernetes, VS Code, IntelliJ IDEA
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks**: React, Next Js
+- **Tools**: Git, VS Code
 
 ---
 
@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ### 📫 How to reach me:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter](https://twitter.com/your-profile)
+- **Email**: rr8027896@gmail.com
+- **LinkedIn**: [Rizki Ramadhan](https://www.linkedin.com/in/rizki-ramadhan12/)
+- **Instagram**: [rzkir.20](https://www.instagram.com/rzkir.20/)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
