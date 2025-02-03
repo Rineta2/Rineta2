@@ -40,8 +40,6 @@
 
 ## 🌱 Currently Learning
 - ☁️ Cloud Computing (AWS, Azure)
-- 🤖 Machine Learning & AI
-- 🔗 Blockchain Development
 
 ## 💻 Featured Projects
 - [Space Digital](https://github.com/Rineta2/space-digitalia)
