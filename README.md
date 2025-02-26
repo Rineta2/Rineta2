@@ -1,22 +1,19 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1CJNgrpcYm-eyYtezPBgeGwGDiAXesny7/view?usp=sharing" />
+  <img height="150" src="https://drive.google.com/file/d/1CJNgrpcYm-eyYtezPBgeGwGDiAXesny7/view?usp=sharing"  />
 </div>
 
 # Hi there, I'm Rizki Ramadhan 👋
 
 > Passionate developer exploring new technologies and contributing to open-source projects
 
-## 🎭 About Me
-- 🔦 Currently working on exciting web development projects
+## 💫 About Me
+- 🔯 Currently working on exciting web development projects
 - 📸 Love Game and photography
 - 🌍 Based in Indonesia
 - 🎯 Focused on building scalable web applications
 - 💡 Always open to collaboration and new opportunities
 
 ## 🛠 Tech Stack
-
-### Mobile Apps
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,6 +24,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,7 +43,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 💊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rineta2&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
